@@ -8,7 +8,7 @@ Data Source: The dataset is taken from Open Data Telangana. Thanks to the Telang
 
 [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiY2I0NTIyNzctZjZhOS00MzI5LWI1ZTEtZWE3NjM4NGMzZmQxIiwidCI6ImQ2MTI4MTFhLWVlNzMtNGY2ZS05MjA4LWFmM2UwZGVlODU0ZiJ9)
 
-
+[Linkedin Post](https://www.linkedin.com/posts/divya-lakshmi-52847620b_codebasicsresumeprojectchallenge-telanganagrowthanalysis-activity-7114213035723956224-Yb-5?utm_source=share&utm_medium=member_desktop)
 
 **Data Model:**
 
