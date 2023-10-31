@@ -1,4 +1,4 @@
-![image](https://github.com/divya030/Telangana-growth-analysis/assets/96876070/475089f5-75c3-48ba-8cda-6ffe53dd22b4)This project was my submission for the Codebasics Resume Project Challenge #7 in collaboration with the Telangana Government and their Open Data Portal.
+This project was my submission for the Codebasics Resume Project Challenge #7 in collaboration with the Telangana Government and their Open Data Portal.
 
 Objective: Analyse Telangana’s growth among different sectors quantitatively and provide useful insights to the Telangana government that would help them to make data-informed decisions and further support the growth of the state.
 
