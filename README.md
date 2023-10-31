@@ -4,7 +4,7 @@ Objective: Analyse Telangana’s growth among different sectors quantitatively a
 
 Data Source: The dataset is taken from Open Data Telangana. Thanks to the Telangana Government for providing real-time datasets for public access which is a great learning asset - feel free to explore them here. (https://data.telangana.gov.in/)
 
-**𝗧𝗼𝗼𝗹𝘀 𝘂𝘀𝗲𝗱:** 
+**Tools Used** 
 * Ms Excel - Data Cleaning and Data Transformation
 * Power BI - Visualization (DAX Functions, Measure, Power Query)
 * Ms PowerPoint - Presentation
